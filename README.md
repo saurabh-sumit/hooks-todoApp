@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project is a simple TODO app made primarily on react Hooks API concept. For state management also raect hooks concept has been used.
 
 ## Available Scripts
 
